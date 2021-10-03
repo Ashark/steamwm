@@ -50,3 +50,11 @@ To install it use:
     $ ./noframe.patch
 
 and then select the `noframe` skin in the Steam settings.
+
+## Reproduce hints
+### Windows with error
+To invoke an error window, rather quick way is to go to menu "Steam" -> "Change Account...". The new window will appear and you can test if it is managed or not.
+
+## Notifications
+To invoke a test notification, I know a one way, but not sure it's best. Create a second steam account and send youself a personal message.  
+It is easier to do via web client, instead of from virtual machine. Create a second user in chromium browser. Then go to https://steamcommunity.com/chat/, login to your second steam account. Now you can quickly create a steam notification by sending a personal message to your first account.
